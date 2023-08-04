@@ -9,7 +9,7 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import jakarta.persistence.OneToMany;
 import jakarta.persistence.Table;
-
+//city entity for flight information system
 @Entity
 @Table(name = "city")
 public class City {
